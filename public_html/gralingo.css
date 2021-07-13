@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+:root {
+    --primary-color: #056a00;
+  }
+
+ body  {
+     font-family: 'poppings';
+     margin: 0;
+ }
+
+ .logoname {
+     color: var(--primary-color);
+     text-decoration: none;
+     font-size: 25px;
+     font-weight: bold;
+ }
+
+ .logoname-container {
+     margin-top: 30px;
+ }
+
+ .primary-navigation-bar {
+     text-decoration: none;
+     align-content: center;
+     text-align:center ;
+     display: flex;
+ }
+
+ .list {
+    margin-top: 20px;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 50px;
+ } 
+
+ .home {
+    text-decoration: none;
+ }
+
+ .our-services {
+    text-decoration: none;
+ }
+
+ .contact-us {
+    text-decoration: none;
+ }
