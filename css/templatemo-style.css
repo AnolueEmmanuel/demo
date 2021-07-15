@@ -128,13 +128,13 @@ h4
     }
 .custom-navbar .navbar-brand 
     {
-        color: #55acee;
+        color: lightgreen;
         font-weight: bold;
         font-size: 28px;
     }
 .custom-navbar .nav li a
      {
-         color: #999;
+         color:lightgreen;
          font-weight: 300;
          font-size: 13px;
          text-transform: uppercase;
@@ -156,7 +156,7 @@ h4
     }
 .custom-navbar .navbar-toggle .icon-bar
     {
-        background: #55acee;
+        background: lightgreen;
         border-color: transparent;
     }
 @media(min-width:768px){
@@ -308,13 +308,13 @@ h3.about-title {
     }
 #about .progress
     {
-        background: #f9f9f9;
+        background: lightgreen;
         box-shadow: none;
         border-radius: 0px;
     }
 #about .progress .progress-bar-danger
     {
-        background: #55acee;
+        background: lightgreen;
     }
 #about span
     {
