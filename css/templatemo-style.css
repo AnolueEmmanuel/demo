@@ -17,7 +17,7 @@ body
 /* start hr */
 hr
     {
-        border: 1px solid #55acee;
+        border: 1px solid lightgreen;
         width: 100px;
         margin-top: 20px;
     }
@@ -87,7 +87,7 @@ h4
     {
          width: 30px;
         height: 30px;
-        background-color: #55acee;         
+        background-color: lightgreen;         
         -webkit-animation: sk-rotatePlane 1.2s infinite ease-in-out;
                 animation: sk-rotatePlane 1.2s infinite ease-in-out;
      }
@@ -134,8 +134,8 @@ h4
     }
 .custom-navbar .nav li a
      {
-         color:lightgreen;
-         font-weight: 300;
+         color:green;
+         font-weight: 400;
          font-size: 13px;
          text-transform: uppercase;
     }
@@ -284,11 +284,11 @@ h4
 /* start divider */
 .divider
     {
-        background: url('../images/divider-bg.jpg');
+        background: url('../images/images/istockphoto-1254413090-612x612.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        color: #ffffff;
+        color: lightgreen;
         text-align: center;
     }
 .divider .divider-des
@@ -308,7 +308,7 @@ h3.about-title {
     }
 #about .progress
     {
-        background: lightgreen;
+        background: #f9f9f9;
         box-shadow: none;
         border-radius: 0px;
     }
