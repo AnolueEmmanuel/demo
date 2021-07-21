@@ -471,7 +471,7 @@ h3.about-title {
         background: transparent;
         border-radius: 0px;
         box-shadow: none;
-        border: 1px solid #CCC;
+        border: 1px solid lightgreen;
         margin-bottom: 20px;
         transition: all 0.4s ease-in-out;
     }
@@ -481,13 +481,13 @@ h3.about-title {
     }
 #contact input[type="submit"]
     {
-        border: 2px solid #55acee;
+        border: 2px solid lightgreen;
         font-weight: bold;
-		color: #55acee;
+		color: lightgreen;
     }
 #contact input[type="submit"]:hover
     {
-        background: #55acee;
+        background: lightgreen;
 		color: #fff;
     }
 /* end contact */
@@ -609,3 +609,14 @@ footer span
         }
 }
 /* end media 360 */
+
+.comando {
+    text-align: center;
+    color: lightgreen;
+}
+
+.wa {
+    font-size: 3em;
+    padding-bottom: 2em;
+    color: green;
+}
